@@ -1,0 +1,25 @@
+table{
+    background-color: rgb(248, 249, 249);
+    float: left;
+    text-align: center;
+}
+.a{
+    float: left;
+}
+.heading{
+    font-size: 3cm;
+    color: orangered;
+}
+.dot{
+    color:orange;
+    font: 0.5em;
+}
+image{
+    position: relative;
+    margin-left: 60px;
+}
+#im{
+    margin-right:-100px ;
+    height:300px;
+     width:150px; 
+}

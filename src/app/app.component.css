@@ -1,0 +1,7 @@
+body{
+    background-image: url(../assets/image/bg.jpg);
+     height: 900px;
+     width: 100%;
+     background-size: cover;
+    position: relative;
+}
